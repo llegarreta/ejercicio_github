@@ -7,3 +7,5 @@
 2.
 3. Voy a analizar los datos
 4. Quiero hacer descriptivos
+5. También queremos hacer un sistema de recomendación
+6. Añadiremos visualizaciones interesantes
