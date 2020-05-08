@@ -1,7 +1,10 @@
 
-# El objetivo de este proyecto es explicar a los/as BDaters como funciona Github
+### El objetivo de este proyecto es explicar a los/as BDaters como funciona Github
+
+## Este es otro título
 
 # Para ello seguiremos estos pasos:
+
 
 1. 
 2.
